@@ -10,5 +10,7 @@ If you know any suppliers/ hospitals which has the following supplies available,
 - Plasma 
 - Hospital beds 
 
+You can also add any information about the suppliers in this google sheet: 
+https://docs.google.com/spreadsheets/d/1t0N4hdW02VfCLW9FlFU2O85sA3_cA6TzBx2hyoZJQ-E/edit?usp=sharing
 
 A webpage created to know the availability of Emergency supplies such as  Remdesivir injection, Oxygen cylinders and more. 
