@@ -234,10 +234,10 @@ header {
             display: none; } }
       header .navbar .dropdown-menu .dropdown-item:hover {
         background: #007bff;
-        color: #007bff; }
+        color: #fff; }
       header .navbar .dropdown-menu .dropdown-item.active {
         background: #007bff;
-        color: #007bff; }
+        color: #fff; }
       header .navbar .dropdown-menu a {
         padding-top: 7px;
         padding-bottom: 7px; }
@@ -271,7 +271,7 @@ table {
 
 th, td {
   font-weight: unset;
-  padding-right: 10px;
+  padding-right: 10px ha;
 }
 
 .column1 {
