@@ -13,4 +13,7 @@ If you know any suppliers/ hospitals which has the following supplies available,
 You can also add any information about the suppliers in this google sheet: 
 https://docs.google.com/spreadsheets/d/1t0N4hdW02VfCLW9FlFU2O85sA3_cA6TzBx2hyoZJQ-E/edit?usp=sharing
 
-A webpage created to know the availability of Emergency supplies such as  Remdesivir injection, Oxygen cylinders and more. 
+
+COVID-Emergency-Supplies is a webpage created to know the availability of Emergency supplies such as  Remdesivir injection, Oxygen cylinders and more. 
+
+https://dantusaikamal.github.io/COVID-Emergency-Supplies/
